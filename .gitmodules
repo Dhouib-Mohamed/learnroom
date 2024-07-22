@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Dhouib-Mohamed/backend-learnroom
+[submodule "frontend/angular-version"]
+	path = frontend/angular-version
+	url = https://github.com/Dhouib-Mohamed/learnroom-frontend-angular
+[submodule "frontend/react-version"]
+	path = frontend/react-version
+	url = https://github.com/Dhouib-Mohamed/learnroom-frontend-react
+[submodule "deployment"]
+	path = deployment
+	url = https://github.com/Dhouib-Mohamed/learnroom-k8s
